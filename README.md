@@ -12,4 +12,8 @@ adding text
 
 ##Deployment
 
+making more additions
+
 ##How to Contribute
+
+more changes!
